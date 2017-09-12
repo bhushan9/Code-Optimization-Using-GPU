@@ -1,4 +1,4 @@
-Description
+<h2>Description</h2> <br>
 This project is about optimizing given CUDA core in terms of speed and memory, using different techniques such as reduced instruction computing, thread divergence and memory optimizations. Read the Report.pdf for detailed report on optimization performance result
 
 
