@@ -1,3 +1,7 @@
+Description
+This project is about optimizing given CUDA core in terms of speed and memory, using different techniques such as reduced instruction computing, thread divergence and memory optimizations. Read the Report.pdf for detailed report on optimization performance result
+
+
 How to compile the project.
 1. Copy the files to a local directory and set that directory as the current working directory.
 2. Enter command "make filename" and replace the filename with the appropriate name of the file. For eg: make norm
